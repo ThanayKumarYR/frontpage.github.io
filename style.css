@@ -95,7 +95,7 @@ html{
 
 section{
     padding : 100px 0;
-    height: 100vh;
+/*     height: 100vh; */
 }
 .teams, footer{
     font-family:'Poppins', sans-serif;  
