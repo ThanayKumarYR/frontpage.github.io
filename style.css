@@ -542,3 +542,23 @@ footer span a:hover{
     }
 
 }
+
+
+@media (max-width: 370px){
+    .body .heading p{
+        font-size: 22px;
+        text-align: center;
+        /* overflow-wrap: break-word; */
+
+    }
+    .body .heading p span{
+        /* break-after: always; */
+        /* overflow-wrap: break-word; */
+        float: left;
+        margin: 25px;
+        text-align: justify;
+        font-size: 40px;
+    }
+}
+
+
