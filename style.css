@@ -342,12 +342,12 @@ footer span a:hover{
 @media (max-width: 1104px){
     .body{
         /* background-color: rgb(0, 0, 0); */
-        height: 90vh;
+        height: 100vh;
     }
-    .body .heading{
+    /* .body .heading{
         position: relative;
-        top: 200px;
-    }
+        top: 200px; 
+    } */
     .body .heading h1{
         font-size: 40px;
     }
@@ -388,10 +388,10 @@ footer span a:hover{
         /* background-color: rgb(0, 0, 0); */
         height: 100vh;
     }
-    .body .heading{
+    /* .body .heading{
         position: relative;
-        top: 250px;
-    }
+        top: 250px; 
+    } */
     .body .heading h1{
         font-size: 40px;
     }
@@ -427,10 +427,10 @@ footer span a:hover{
         /* background-color: rgb(0, 0, 0); */
         height: 95vh;
     }
-    .body .heading{
+    /* .body .heading{
         position: relative;
-        top: 150px;
-    }
+        top: 150px; 
+    } */
     .body .heading h1{
         font-size: 40px;
     }
@@ -483,10 +483,10 @@ footer span a:hover{
         height: 95vh;
     }
     
-    .body .heading{
+    /* .body .heading{
         position: relative;
-        top: 175px;
-    }
+        top: 175px; 
+    } */
     .body .heading h1{
         font-size: 40px;
     }
@@ -521,10 +521,10 @@ footer span a:hover{
         height: 95vh;
     }
     
-    .body .heading{
+    /* .body .heading{
         position: relative;
         top: 200px;
-    }
+    } */
     .body .heading h1{
         font-size: 28px;
     }
@@ -561,4 +561,4 @@ footer span a:hover{
     }
 } */
 
- */
+
