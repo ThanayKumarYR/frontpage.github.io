@@ -375,7 +375,7 @@ footer span a:hover{
         padding: 0 50px;
     }
     .logo{
-        background-color:rgb(181, 241, 234);
+        /* background-color:rgb(181, 241, 234); */
         width: 100%;
         display: flex;
     }
@@ -414,7 +414,7 @@ footer span a:hover{
         padding: 0 50px;
     }
     .logo{
-        background-color:rgb(181, 241, 234);
+        /* background-color:rgb(181, 241, 234); */
         width: 100%;
         display: flex;
     }
@@ -463,7 +463,7 @@ footer span a:hover{
         padding: 0 23px;
     }
     .logo{
-        background-color:rgb(181, 241, 234);
+        /* background-color:rgb(181, 241, 234); */
         width: 100%;
         display: flex;
     }
@@ -507,7 +507,7 @@ footer span a:hover{
 @media (max-width: 500px){
    
     .logo{
-        background-color:rgb(181, 241, 234);
+        /* background-color:rgb(181, 241, 234); */
         width: 100%;
         display: flex;
     }
