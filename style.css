@@ -521,10 +521,10 @@ footer span a:hover{
         height: 95vh;
     }
     
-    /* .body .heading{
+    .body .heading{
         position: relative;
-        top: 200px;
-    } */
+        top: 50%;
+    }
     .body .heading h1{
         font-size: 28px;
     }
